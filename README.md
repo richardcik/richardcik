@@ -4,8 +4,7 @@ There is no need for more details, I will contact you if I want.
 
 <img src="https://komarev.com/ghpvc/?username=richardcik&label=Profile%20Viewers&color=green" alt="richardcik" />
 
-- My Website: [richardleistung.tk](https://richardleistung.tk)
-- Github Site: [richardcik](https://richardcik.github.io)
+- My Website: [richardcik](https://richardcik.github.io)
 - Instagram: [@richardmisali](https://instagram.com/richardmisali)
 - Discord: [@Richârd](https://discord.com/users/744229839137144925)
 - Spotify: [@Richârd](https://open.spotify.com/user/xf4uoowl3crpxfftsqztrsn7f)
