@@ -1,8 +1,8 @@
 ### Hello, I'm Richard Leistung 🍦
 
 There is no need for more details, I will contact you if I want.
-
 <img src="https://komarev.com/ghpvc/?username=richardcik&label=Profile%20Viewers&color=green" alt="richardcik" />
+
 - My Website: [richard.tk](https://richardcik.github.io)
 - Instagram: [@richardmisali](https://instagram.com/richardmisali)
 - Discord: [@Richârd](https://discord.com/users/744229839137144925)
