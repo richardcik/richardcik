@@ -11,3 +11,5 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/744229839137144925?bg=111111">
    </a>
 </div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/744229839137144925
+                            )](https://discord.com/users/744229839137144925)
