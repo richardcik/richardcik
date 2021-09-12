@@ -2,7 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=richardcik&label=Profile%20Viewers&color=green" alt="richardcik" />
 
-[![Discord Presence]("https://lanyard-profile-readme.vercel.app/api/744229839137144925")]("https://discord.com/users/744229839137144925")
 - My Website: [richard.tk](https://richardcik.github.io)
 - Instagram: [@richardmisali](https://instagram.com/richardmisali)
 - Discord: [@Richârd](https://discord.com/users/744229839137144925)
