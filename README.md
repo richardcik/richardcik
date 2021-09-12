@@ -1,6 +1,6 @@
 ### Hello, I'm Richard Leistung
 
-<img src="https://komarev.com/ghpvc/?username=richardcik&label=Profile%20Viewers&color=green" alt="richardcik" />
+   <img src="https://komarev.com/ghpvc/?username=richardcik&label=Profile%20Viewers&color=green" alt="richardcik" />
 
 - My Website: [richard.tk](https://richardcik.github.io)
 - Instagram: [@richardmisali](https://instagram.com/richardmisali)
