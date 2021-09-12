@@ -8,8 +8,6 @@
 </p>
 <div align="center">
    <a href="https://discord.com/users/744229839137144925" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/744229839137144925?bg=111111">
+      <img src="https://lanyard-profile-readme.vercel.app/api/744229839137144925">
    </a>
 </div>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/744229839137144925
-                            )](https://discord.com/users/744229839137144925)
